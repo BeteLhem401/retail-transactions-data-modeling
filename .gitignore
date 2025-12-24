@@ -1,0 +1,14 @@
+# virtual environment
+venv/
+
+# raw data 
+data/raw/*.csv
+data/raw/*.zip
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
